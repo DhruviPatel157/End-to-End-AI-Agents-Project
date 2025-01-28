@@ -53,9 +53,7 @@ touch app.py
 python app.py 
 ```  
 
-Output Image:  
 
-![](images/closing_price.png)
 
 ```bash 
 touch gradio_app.py 
@@ -65,9 +63,7 @@ touch gradio_app.py
 python gradio_app.py 
 ```
 
-Follow the local host link 
 
-![](images/launch.png)
 
 
 #### Gradio App
